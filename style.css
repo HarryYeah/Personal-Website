@@ -1,2 +1,10 @@
+.active{
+  background-color: #FFFFFF;
+  color: #745F4C;
+}
 body{
+  background-color: #745F4C;
+  font-family: Roboto;
+  font-size: 18px;
+  color: #FFFFFF;
 }
