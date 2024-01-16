@@ -28,3 +28,7 @@ body{
 p{
   font-weight: light;
 }
+
+figcaption{
+  text-align: center;
+}
