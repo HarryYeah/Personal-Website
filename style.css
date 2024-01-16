@@ -12,3 +12,8 @@ body{
 p{
   font-weight: light;
 }
+
+nav li:hover{
+  background-color: green;
+  color: #FFFFFF;
+}
