@@ -12,10 +12,10 @@ a:hover{
 }
 
 
-.active{
+a.active{
   background-color: #FFFFFF;
   font-weight: bold;
-  color: #745F4C
+  color: #745F4C;
 }
 
 body{
