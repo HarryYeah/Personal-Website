@@ -17,6 +17,9 @@ a:hover{
   color: #2f2f2f;
 }
 
+a:visited{
+  color: #dbd8cf;
+}
 
 li.active a{
   background-color: #dbd8cf;
