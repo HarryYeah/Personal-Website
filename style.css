@@ -2,7 +2,7 @@ header{
   background-color: #4b6b8a;
 }
 
-header > ul > li > a{
+header a{
   font-style: normal;
   font-family: "Trebuchet MS", "Helvetica", sans-serif;
   font-size: 24px;
@@ -32,6 +32,8 @@ body{
   font-family: Roboto;
   font-size: 18px;
   color: #dbd8cf;
+  margin-right: 200px;
+  margin-left: 200px;
 }
 
 p{
