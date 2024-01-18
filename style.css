@@ -1,9 +1,10 @@
 
-a{
+li a{
   font-style: normal;
   font-family: "Trebuchet MS", "Helvetica", sans-serif;
   font-size: 24px;
   color: #FFFFFF;
+  border: 3px solid White;
 }
 
 a:hover{
